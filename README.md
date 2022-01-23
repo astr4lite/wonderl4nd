@@ -17,7 +17,7 @@ dirb scan:
 
 ### [port 80] - website
 title says "Follow the White Rabbit.", there is also a picture of a white rabbit on the site
-![[https://github.com/astr4lite/wonderl4nd/blob/main/Pasted%20image%2020211022000513.png?raw=true]]
+![alt](https://github.com/astr4lite/wonderl4nd/blob/main/Pasted%20image%2020211022000513.png?raw=true)
 
 during the dirb scan we find a directory "r", now when we go to this directory we are confronted with this message:
 ```
